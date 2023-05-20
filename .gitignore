@@ -1,1 +1,5 @@
- 
+Unity/Library/
+Unity/Temp/
+Unity/Unity.sln
+Unity/.vs/
+Unity/Assembly-CSharp.csproj
