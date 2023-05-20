@@ -117,6 +117,7 @@ public class Game : MonoBehaviour
         history.Add((left,right,false));
         localBomb = localBombLimit;
         txAppear.text = left.ToString()+"+"+right.ToString();
+        input = -1;
     }
 
     private void Judge()
